@@ -1,0 +1,23 @@
+{
+  "name": "youvdee-merch-drop",
+  "version": "1.0.0",
+  "description": "youvdee merch promotion code distribution",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Load-Ma/youvdee-merch-drop.git"
+  },
+  "author": "load",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Load-Ma/youvdee-merch-drop/issues"
+  },
+  "homepage": "https://github.com/Load-Ma/youvdee-merch-drop#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
+}

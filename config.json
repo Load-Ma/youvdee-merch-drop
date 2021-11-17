@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "developper": [
+      "581188531372949506"
+    ],
+    "administrator":  [
+      "581188531372949506",
+      "284785273320243202",
+      "367903283039436802"
+    ]
+  },
+
+  "setting": {
+    "prefix": "yv ",
+    "color": "#da3af0"
+  },
+
+  "bot": {
+    "id": "908053377143930930",
+    "invite": "https://discord.com/oauth2/authorize?client_id=908053377143930930&scope=bot&permissions=8"
+  }
+}
