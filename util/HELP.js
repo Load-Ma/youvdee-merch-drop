@@ -9,7 +9,7 @@ const COMMANDS = {
             cooldown: 5,
             permissions: "",
             auth: "admin",
-            args: "true"
+            args: "false"
         },
         SETLOGS: {
             name: "setlogs",
